@@ -6,9 +6,9 @@ SegNet model for Keras.
 
 
 ##Settings Used:
-#Tensorflow 1.4.0 as Backend
-#Keras 2.1.2
-#python 3.5
+Tensorflow 1.4.0 as Backend
+Keras 2.1.2
+python 3.5
 # Use anaconda environment to avoid incompatibility issues with other python versions and Tensorflow backend versions
 
 ## Examples
